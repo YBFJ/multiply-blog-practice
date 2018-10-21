@@ -1,0 +1,6 @@
+config/*
+!config/default.*
+# 这样只有 config/default.js 会加入 git 的版本控制，
+npm-debug.log
+node_modules
+coverage
