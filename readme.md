@@ -1,6 +1,6 @@
 [多人博客教程项目源码]("https://github.com/nswbmw/N-blog.git")
 
-##亮点
+## 亮点
 
 1. 后台交互
 2. Semantic UI
